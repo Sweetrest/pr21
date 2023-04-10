@@ -1,0 +1,12 @@
+G:\ОАП\PR\PR\bin\Debug\PR.exe.config
+G:\ОАП\PR\PR\bin\Debug\PR.exe
+G:\ОАП\PR\PR\bin\Debug\PR.pdb
+G:\ОАП\PR\PR\obj\Debug\PR.csproj.AssemblyReference.cache
+G:\ОАП\PR\PR\obj\Debug\PR.csproj.SuggestedBindingRedirects.cache
+G:\ОАП\PR\PR\obj\Debug\PR.Form1.resources
+G:\ОАП\PR\PR\obj\Debug\PR.Form2.resources
+G:\ОАП\PR\PR\obj\Debug\PR.Properties.Resources.resources
+G:\ОАП\PR\PR\obj\Debug\PR.csproj.GenerateResource.cache
+G:\ОАП\PR\PR\obj\Debug\PR.csproj.CoreCompileInputs.cache
+G:\ОАП\PR\PR\obj\Debug\PR.exe
+G:\ОАП\PR\PR\obj\Debug\PR.pdb
